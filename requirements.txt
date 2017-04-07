@@ -1,5 +1,12 @@
+# Python
 virtualenv
 fabric
 paramiko
 ansible
 slackclient 
+
+# OS
+Python
+Python-dev
+
+
