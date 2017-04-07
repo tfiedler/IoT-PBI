@@ -4,8 +4,8 @@ Push (IoT) button infrastructure
 IoT-PBI - turn up a complete Rube Goldberg contraption stack using AWS IoT button.
 
 # Brain dump #1
-
-```IoT push x1 -> spins up rpi ( how? )
+```
+IoT push x1 -> spins up rpi ( how? )
                kicks off an ansible run
                 builds 2 small vps ( ansible or Terraform )
                     installs on vps 1
@@ -40,7 +40,8 @@ Backend rpi -> handles qhue library requests
                reports to slack
 
 IoT push x2 -> Reprts to slack
-               tears down infratsructure```
+               tears down infratsructure
+```
 
 
           
