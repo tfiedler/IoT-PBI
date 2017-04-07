@@ -1,0 +1,5 @@
+virtualenv
+fabric
+paramiko
+ansible
+slackclient 
